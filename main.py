@@ -9,11 +9,6 @@ from generate_access_token_class import GetAccess
 from streamlit_star_rating import st_star_rating
 from time import sleep
 
-import pandas as pd
-from stqdm import stqdm
-
-stqdm.pandas()
-
 
 ###################################################################################
 # Get access token from spotify
