@@ -1,0 +1,6 @@
+venv
+config.py
+plan.txt
+plansketch.drawio
+.vscode
+__pycache__
