@@ -7,7 +7,6 @@ from artist_class import Artist
 from config import spotify_client_id, spotify_client_secret
 from generate_access_token_class import GetAccess
 from streamlit_star_rating import st_star_rating
-from time import sleep
 
 
 ###################################################################################
